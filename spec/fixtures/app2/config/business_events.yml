@@ -1,0 +1,4 @@
+foo:
+  big_bar: []
+  small_bar:
+    - App2SmallBarJob

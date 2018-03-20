@@ -1,0 +1,7 @@
+foo:
+  big_bar:
+    - BasicJob
+    - BasicJobEnqueuesChildJob
+  small_bar:
+    - MoreJobs::JobWithModule
+  noop: []
